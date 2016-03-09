@@ -2,7 +2,7 @@
   "name": "nashalepta",
   "version": "0.0.0",
   "dependencies": {
-	"imagemin": "^4.0.0"
+    "imagemin": "^4.0.0"
   },
   "repository": {},
   "devDependencies": {
